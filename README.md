@@ -1,8 +1,3 @@
-# Sonar-ML
-Here's a sample GitHub repository description for your machine learning project about finding rocks or mines using logistic regression:
-
----
-
 # Rock or Mine Classifier
 
 This project aims to classify underwater objects as either rocks or mines using logistic regression. The dataset used for training and testing contains sonar signals obtained from a sonar device. The signals bounce off different objects underwater, and by analyzing these signals, we can distinguish between rocks and mines.
