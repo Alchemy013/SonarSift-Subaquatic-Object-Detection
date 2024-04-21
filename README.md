@@ -30,4 +30,3 @@ To use this project, clone the repository and run the `main.py` script. Make sur
 
 ---
 
-Feel free to customize the description to include any additional details about your project or approach!
