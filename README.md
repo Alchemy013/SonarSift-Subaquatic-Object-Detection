@@ -18,6 +18,7 @@ The model achieves an accuracy of 85% on the test set, demonstrating its ability
 
 To use this project, clone the repository and run the `main.py` script. Make sure you have the necessary dependencies installed, which can be installed using `pip install -r requirements.txt`.
 
+## WorkFlow
 
 ![Work FLow](https://github.com/Alchemy013/Sonar-ML/assets/92947939/79245d4e-0776-498b-b8ae-3c3ad0c53a06)
 
